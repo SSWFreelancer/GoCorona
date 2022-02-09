@@ -497,6 +497,7 @@ html{
 
 .corona {
   max-width: 100%;
+  background-color: #FFFFFF;
 }
 .corona__container {
   padding: 80px 20px;
@@ -825,6 +826,7 @@ html{
 .health {
   width: 100%;
   padding-top: 80px;
+  background-color: #FFFFFF;
 }
 .health__container {
   display: -webkit-box;
